@@ -2,6 +2,10 @@
 
 A new Flutter project.
 
+![Test Coverage](coverage_badge.svg)
+
+[The Presentation](https://docs.google.com/presentation/d/1yUd-Qlyo8sYhnL2vH4SxzMdcLaLByQpxpqY7DNoZW-k/edit?usp=sharing)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
